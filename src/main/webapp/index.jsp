@@ -8,7 +8,9 @@
 
 <body>
       <div class="main">
-            <h1>GeeksforGeeks</h1>
+            <centre>
+            <h1>Welcome to DUMMY TCS</h1>
+            </centre>
             <h3>Enter your login credentials</h3>
             <form action="">
                   <label for="first">
